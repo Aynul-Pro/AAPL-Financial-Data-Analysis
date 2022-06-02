@@ -1,0 +1,2 @@
+A Financial data analysis of AAPL stocks over the years with Python. Pandas and Numpy Packages is used to do the statistical analysis of the dataset 
+involving visualizations with python matplotlib packages.Log returns,Mooving Average and percentage changes etc were used as part of technical data analysis.     
